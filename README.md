@@ -1,4 +1,4 @@
-Git learning sandbox
+learning Git sandbox
 ====================
 testing git merge tool
 
