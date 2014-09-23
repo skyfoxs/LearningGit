@@ -1,5 +1,5 @@
-LearningGit
-===========
+Git learning sandbox
+====================
 testing git merge tool
 
 ```
